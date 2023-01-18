@@ -13,4 +13,4 @@ First install the binaries of VLC in the resources\win32-x86-64 directory (or th
 
 Copyright © 2023 Thomas Walter
 
-This program and the accompanying materials are made available under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version, with the GNU Classpath Exception which is available at https://www.gnu.org/software/classpath/license.html.
+This program and the accompanying materials are made available under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
